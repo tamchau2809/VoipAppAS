@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#C8C8C8"
+    android:orientation="vertical" 
+    >
+    
+    <LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    >
+	    <EditText 
+	        android:id="@+id/edNumInput"
+	        android:layout_width="match_parent"
+	        android:layout_weight="1"
+	        android:textStyle="bold"
+	        android:textSize="28sp"
+	        android:hint="Nhập Số.."
+	        android:layout_height="match_parent"
+	        android:inputType="text"
+	        android:cursorVisible="false"
+	        android:maxEms="18"
+	        android:singleLine="true"
+	        />
+
+	    <ImageButton
+	        android:id="@+id/btnBackSpace"
+	        style="?android:attr/borderlessButtonStyle"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:layout_weight="3"
+	        android:contentDescription="aa"
+	        android:scaleType="center"
+	        android:src="@drawable/backspace" />
+
+	</LinearLayout>
+    
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    style="?android:buttonBarStyle">
+
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="1"
+            android:id="@+id/btnOne"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="2"
+            android:id="@+id/btnTwo"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="3"
+            android:id="@+id/btnThree"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	</LinearLayout>
+	
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    style="?android:buttonBarStyle">
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="4"
+            android:id="@+id/btnFour"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="5"
+            android:id="@+id/btnFive"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="6"
+            android:id="@+id/btnSix"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	</LinearLayout>
+	
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    style="?android:buttonBarStyle">
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="7"
+            android:id="@+id/btnSeven"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="8"
+            android:id="@+id/btnEight"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="9"
+            android:id="@+id/btnNine"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	</LinearLayout>
+	
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" 
+	    style="?android:buttonBarStyle">
+
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="*"
+            android:id="@+id/btnStar"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="0"
+            android:id="@+id/btnZero"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	    <Button 
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="#"
+            android:id="@+id/btnHash"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+	</LinearLayout>
+
+	    <Button 
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="Gọi"
+            android:id="@+id/btnCall"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"/>
+    
+</LinearLayout>

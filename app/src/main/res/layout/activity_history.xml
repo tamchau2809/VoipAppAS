@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <EditText 
+        android:id="@+id/edSearchHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:inputType="text"
+        android:textSize="30sp"
+        android:hint="Tìm kiếm.."
+        android:visibility="gone"
+        />
+    
+    <ListView
+        android:id="@+id/lvHistory"
+        android:layout_below="@+id/edSearchHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</RelativeLayout>

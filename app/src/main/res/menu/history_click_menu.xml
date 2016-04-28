@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="chau.voipapp.HistoryActivity" >
+    <item android:id="@+id/itemHistorycall" 
+        android:title="Gọi Đến Số Này"></item>
+    <item android:id="@+id/itemDelete" android:title="Xóa Số này"></item>
+
+</menu>

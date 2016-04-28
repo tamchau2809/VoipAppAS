@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\hexkbd.xml",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\xml\\hexkbd.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup.xml",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\xml\\popup.xml"
+    }
+]
