@@ -1,11 +1,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="chau.voipapp.EditContactActivity" >
+    xmlns:VoipApp="http://schemas.android.com/apk/res-auto"
+    tools:context="chau.voipapp.EditContactActivity">
 
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
-        android:showAsAction="never"
+        VoipApp:showAsAction="never"
         android:title="@string/action_settings"/>
 
 </menu>

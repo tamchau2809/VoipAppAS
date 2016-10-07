@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number1.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\number1.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\in_call.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\in_call.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backspace.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\backspace.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\online.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\online.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addcontact.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\addcontact.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pause.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_done.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offline.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\offline.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\speakerx.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\speakerx.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\out_call.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\out_call.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ok_icon.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\ok_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\miss_call.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\miss_call.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_delete.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number2.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\number2.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\speaker.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\speaker.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\VoipApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clear.png",
+        "source": "D:\\Android\\StudioProjects\\VoipApp\\app\\src\\main\\res\\drawable-hdpi\\clear.png"
+    }
+]

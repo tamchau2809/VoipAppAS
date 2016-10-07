@@ -45,7 +45,7 @@
         android:layout_gravity="center"
         android:inputType="textPassword"
         android:singleLine="true"/>
-    
+
     <TextView
         android:id="@+id/tvkoxai3"
         android:layout_width="wrap_content"
